@@ -12,4 +12,4 @@
 
 - [Amazon Product Reviews](projects/Amazon_Product_Reviews.ipynb)
 - [Twitter Sentiment Analysis](projects/Twitter_Sentiment_Analysis.ipynb)
-- [Fake News Detection](projects/Fake_News_Detection.ipynb)
+- [Fake News Detection](projects/Fake-News-Classification.ipynb)
