@@ -6,4 +6,4 @@
 
 - [Lab 1: Introduction](labs-notebooks/lab-001.ipynb)
 - [Lab 2: Data Cleaning](labs-notebooks/DataCleaning.ipynb)
-- [Lab 2.1: Lists](labs-notebooks/VectorizingRawData.ipynb)
+- [Lab 2.1: Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
