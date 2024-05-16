@@ -12,7 +12,7 @@
 
 ## Tasks includes the following:
 
-- [Pandas tasks](tasks/tasks-pandas.ipynb)
+- [Pandas tasks](Tasks/tasks-pandas.ipynb)
 
 ## Projects includes the following:
 
