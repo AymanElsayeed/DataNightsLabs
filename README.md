@@ -9,6 +9,11 @@
 - [Data Cleaning](labs-notebooks/DataCleaning.ipynb)
 - [Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
 
+
+## Tasks includes the following:
+
+- [Pandas tasks](tasks/tasks-pandas.ipynb)
+
 ## Projects includes the following:
 
 - [Amazon Product Reviews](projects/Amazon_Product_Reviews.ipynb)
