@@ -4,6 +4,6 @@
 
 ## Labs includes the following topics:
 
-- [* Introduction](labs-notebooks/lab-001.ipynb)
-- [* Data Cleaning](labs-notebooks/DataCleaning.ipynb)
-- [* Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
+- [Introduction](labs-notebooks/lab-001.ipynb)
+- [Data Cleaning](labs-notebooks/DataCleaning.ipynb)
+- [Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
