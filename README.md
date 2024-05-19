@@ -13,7 +13,7 @@
 ## Tasks includes the following:
 
 - [Pandas tasks](Tasks/tasks-pandas.ipynb)
-- [SeaBorn tasks](Tasks/tasks-seaborn.ipynb)
+- [Seaborn tasks](Tasks/tasks-seaborn.ipynb)
 
 ## Projects includes the following:
 
