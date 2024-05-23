@@ -17,6 +17,7 @@
 - [Pandas tasks](Tasks/tasks-pandas.ipynb)
 - [Seaborn tasks](Tasks/tasks-seaborn.ipynb)
 - [EDA tasks](Tasks/tasks-EDA.ipynb)
+- [Data Cleaning tasks](Tasks/tasks-DataCleaning.ipynb)
 
 ## Projects includes the following:
 
