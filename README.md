@@ -18,6 +18,7 @@
 - [Seaborn tasks](Tasks/tasks-seaborn.ipynb)
 - [EDA tasks](Tasks/tasks-EDA.ipynb)
 - [Data Cleaning tasks](Tasks/tasks-DataCleaning.ipynb)
+- [Vectorizing Raw Data tasks](Tasks/tasks-VectorizingRawData.ipynb)
 
 ## Projects includes the following:
 
