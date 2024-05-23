@@ -6,6 +6,7 @@
 
 - [Introduction](labs-notebooks/lab-001.ipynb)
   - [Introduction to Pandas](labs-notebooks/IntroPandas.ipynb)
+  - [Introduction to Seaborn](labs-notebooks/IntroSeaborn.ipynb)
 - [Data Cleaning](labs-notebooks/DataCleaning.ipynb)
 - [Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
 
