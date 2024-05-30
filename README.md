@@ -11,7 +11,7 @@
 - [Data Cleaning](labs-notebooks/DataCleaning.ipynb)
 - [Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
 - [Neural Networks]()
-  - [Introduction to Neural Networks](labs-notebooks/Intro_NN.ipynb)
+  - [Introduction to Neural Networks](labs-notebooks/Neuron Networks/Intro_NN.ipynb)
 
 
 ## Tasks includes the following:
