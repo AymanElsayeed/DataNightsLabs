@@ -16,6 +16,7 @@
 - [Data Cleaning](labs-notebooks/DataCleaning.ipynb)
   - Removing Punctuation
   - Removing Stopwords
+  - Tokenization
   - Stemming
   - Lemmatization
 - [Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
