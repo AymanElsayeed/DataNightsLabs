@@ -9,8 +9,19 @@
   - [Introduction to Seaborn](labs-notebooks/IntroSeaborn.ipynb)
   - [Introduction to Numpy](labs-notebooks/introNumpy.ipynb)
 - [EDA](labs-notebooks/EDA.ipynb)
+  - Descriptive Statistics
+  - Data Visualization
+  - Correlation
+  - Missing Values
 - [Data Cleaning](labs-notebooks/DataCleaning.ipynb)
+  - Removing Punctuation
+  - Removing Stopwords
+  - Stemming
+  - Lemmatization
 - [Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
+  - Count Vectorization
+  - TF-IDF Vectorization
+  - N-Grams
 - [Neural Networks]()
   - [Introduction to Neural Networks](labs-notebooks/Neuron-Networks/Intro_NN.ipynb)
 
