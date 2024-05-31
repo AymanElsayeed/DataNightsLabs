@@ -19,6 +19,7 @@
   - Tokenization
   - Stemming
   - Lemmatization
+- [Part of Speech Tagging](labs-notebooks/POST.ipynb)
 - [Vectorizing Raw Data](labs-notebooks/VectorizingRawData.ipynb)
   - Count Vectorization
   - TF-IDF Vectorization
