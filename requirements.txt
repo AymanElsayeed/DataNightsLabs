@@ -4,3 +4,8 @@ seaborn==0.13.2
 scikit-learn==1.4.2
 nltk==3.8.1
 matplotlib==3.9.0
+spacy==3.7.4
+spacy-legacy==3.0.12
+spacy-loggers==1.0.5
+tensorflow==2.16.1
+gensim==4.3.2
