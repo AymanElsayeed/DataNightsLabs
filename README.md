@@ -5,6 +5,7 @@
 ## Labs includes the following topics:
 
 - [Introduction](labs-notebooks/lab-001.ipynb)
+  - [Introduction to JupyterNotebooks](labs-notebooks/IntroJupyterNotebook.ipynb)
   - [Introduction to Pandas](labs-notebooks/IntroPandas.ipynb)
   - [Introduction to Seaborn](labs-notebooks/IntroSeaborn.ipynb)
   - [Introduction to Numpy](labs-notebooks/introNumpy.ipynb)
