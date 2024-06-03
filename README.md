@@ -1,6 +1,6 @@
 # Data Nights 2024
 
-![alt text](assets/imgs/1715244958675.jpeg)
+![alt text](assets/imgs/CourseImg.jpeg)
 
 ## Labs includes the following topics:
 
